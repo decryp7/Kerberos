@@ -1,0 +1,9 @@
+SQ21 Singapore,Sydney
+SQ22 Singapore,Sydney
+SQ23 Singapore,Sydney
+SQ24 Singapore,Sydney
+AF101 Singapore,Sydney
+SQ102 Singapore,Sydney
+NA99 Singapore,Sydney
+MN39 Singapore,Sydney
+OP22 Singapore,Sydney

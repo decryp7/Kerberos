@@ -1,0 +1,9 @@
+SQ21 Singapore,Sydney,Tokyo
+SQ22 Singapore,Sydney,Tokyo
+SQ23 Singapore,Sydney,Perth
+SQ24 Singapore,Sydney,Tokyo
+AF101 Singapore,Sydney,Perth
+SQ102 Singapore,Sydney,Perth
+NA99 Singapore,Sydney,Tokyo
+MN39 Singapore,Sydney,Tokyo
+OP22 Singapore,Sydney,Perth,Heaven
